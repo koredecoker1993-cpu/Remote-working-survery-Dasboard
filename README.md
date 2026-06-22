@@ -16,8 +16,8 @@ Key Performance Indicators (KPI’s)
 
 # # Process
 
-- Data Cleaning  Saved raw CSV files as Excel workbooks, renamed 73+ long column headers, added a Year column to both datasets, and standardised inconsistent values using Find & Replace
-- Data Combination — Merged the 2020 and 2021 survey datasets into a single master file (RWS_Master.xlsx) containing 3,019 respondents across 110+ columns, resolving column misalignment between the two years
-- KPI Analysis — Built PivotTables and COUNTIFS formulas in Excel to analyse four key KPIs covering remote working preferences, productivity, time use, and the biggest barriers to remote working
+- Data Cleaning - Saved raw CSV files as Excel workbooks, renamed 73+ long column headers, added a Year column to both datasets, and standardised inconsistent values using Find & Replace
+- Data Combination -  Merged the 2020 and 2021 survey datasets into a single master file (RWS_Master.xlsx) containing 3,019 respondents across 110+ columns, resolving column misalignment between the two years
+- KPI Analysis Built PivotTables and COUNTIFS formulas in Excel to analyse four key KPIs covering remote working preferences, productivity, time use, and the biggest barriers to remote working
 - Dashboard Visualisation — Imported the master dataset into Power BI Desktop, created DAX calculated measures, and built interactive dashboards with year slicers for dynamic cross-year comparison
 
