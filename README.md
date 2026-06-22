@@ -25,4 +25,11 @@ Key Performance Indicators (KPI’s)
 
 <img width="794" height="365" alt="Screenshot (310)" src="https://github.com/user-attachments/assets/1f9672a7-7193-4500-ad17-4bb0f3d206d6" />
 
+# #  Project Insight
 
+- Shift in Remote Working Preferences — COVID-19 dramatically transformed how employees view remote work. In 2020, 83% preferred less than half remote working, but by 2021 over 60% preferred working remotely more than half of their time
+- Productivity Improved Year-on-Year — Remote working productivity increased between the two years, with 63.9% of respondents reporting they were more productive when working remotely in 2021, up from 53.5% in 2020
+- Time Use Shifted Significantly — Remote workers worked longer hours but gained more personal and family time, saved significantly on commuting, and took on increased caring responsibilities compared to on-site workers
+- Motivation and Collaboration are the Biggest Barriers — The top challenges to remote working were lack of motivation (14.7%) and difficulty collaborating (11.7%), highlighting the need for organisations to invest in better digital tools and management practices
+
+# # Final Conclusion
