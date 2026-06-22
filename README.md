@@ -12,7 +12,7 @@ Key Performance Indicators (KPI’s)
 -	How does an employee’s use of time differ when working remotely verses on-site?
 - What are the biggest barriers to overcome if remote work becomes the norm in the future?
 
--- Dashboard Interactions <a href="https://github.com/koredecoker1993-cpu/Remote-working-survery-Dasboard/blob/main/Screenshot%20(310).png">View Dashboard</a>
+- Dashboard Interactions <a href="https://github.com/koredecoker1993-cpu/Remote-working-survery-Dasboard/blob/main/Screenshot%20(310).png">View Dashboard</a>
 
 # # Process
 
