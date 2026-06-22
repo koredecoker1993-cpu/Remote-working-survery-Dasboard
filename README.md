@@ -33,3 +33,7 @@ Key Performance Indicators (KPI’s)
 - Motivation and Collaboration are the Biggest Barriers — The top challenges to remote working were lack of motivation (14.7%) and difficulty collaborating (11.7%), highlighting the need for organisations to invest in better digital tools and management practices
 
 # # Final Conclusion
+
+- Remote Working is Now the Preferred Model — The analysis confirms that COVID-19 fundamentally transformed remote working from a minority preference to the dominant choice, with the majority of employees across both 2020 and 2021 survey datasets favouring remote or hybrid working arrangements
+-  Productivity and Flexibility Benefits are Clear — Remote working consistently delivered improved productivity, reduced commute times, and greater personal and family time, making it a beneficial model for both employees and organisations when properly supported
+-  Hybrid Working is the Post-Pandemic Norm — The findings strongly support a hybrid working model as the ideal post-pandemic solution, balancing the flexibility and productivity benefits of remote working with the social and collaborative needs that in-office attendance provides
